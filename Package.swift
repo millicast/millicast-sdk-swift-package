@@ -23,8 +23,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "MillicastSDK",
-            url: "https://github.com/millicast/millicast-native-sdk/releases/download/v2.4.1/millicast-native-sdk-2.4.1-XCFramework.zip",
-            checksum: "81e4838b728b4f91f7934cd1f837b9aa04a8b4c742e2561c3c690a5c885af8c3"
+            url: "https://github.com/millicast/millicast-native-sdk/releases/download/v2.4.2/millicast-native-sdk-2.4.2-XCFramework.zip",
+            checksum: "fe33d1ee28d66177e041226268c3ab67ec3a9fb5c21132e7786469f44b357545"
         )
     ]
 )
